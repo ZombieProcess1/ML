@@ -1,0 +1,3 @@
+write the results to to to we we step,
+what we output here will be the input for the
+Reduce step, i.e. the input for reducer.py
